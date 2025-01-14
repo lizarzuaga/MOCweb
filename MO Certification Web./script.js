@@ -1,0 +1,3 @@
+targetElement.scrollIntoView({
+    behavior: 'smooth'
+})
